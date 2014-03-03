@@ -1,0 +1,6 @@
+name: Radio
+main: radio.Radio
+version: 0.1
+commands:
+  radio:
+    description: Displays help for the plugin.
